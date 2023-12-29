@@ -1,0 +1,2 @@
+# solidJsApp
+testapp with solidjs
